@@ -3,4 +3,6 @@
 /ocamlformat.install
 /test-extra/code
 /_opam
+/_esy
+/node_modules
 /coverage
